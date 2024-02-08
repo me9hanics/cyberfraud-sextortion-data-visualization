@@ -1,6 +1,5 @@
 # cyberfraud-sextortion-data-visualization
 Work done at the Complexity Science Hub, Vienna.<br>
-Data is not public.
 
 Cyberfraud network:
 
